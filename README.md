@@ -1,5 +1,11 @@
-# 💫 About Me:
-Experienced Full-Stack Developer with a specialization in DevOps, focused on delivering scalable and reliable<br>applications through cloud optimization and automation. With a DevOps on AWS certification, I am skilled in<br>streamlining deployment processes and enhancing scalability and reliability in cloud environments. My full-stack<br>development background provides a comprehensive understanding of both front-end and back-end systems, ensuring<br>efficient and robust solutions. Additionally, my Android Developer certification from Meta broadens my expertise in<br>mobile app development, equipping me to build and maintain native Android applications.
+# About:
+Passionate Full-Stack Developer with a specialization in Android Development and DevOps on AWS. Certified by
+IBM, Meta, Google, and AWS, I have hands-on experience in building and deploying scalable web and mobile
+applications. Proficient in Python, Java, Kotlin, JavaScript, React, Node.js, and Android SDK, I excel in creating
+seamless user experiences across front-end and back-end systems. My DevOps expertise enables me to enhance app
+delivery pipelines, ensure automation, and optimize performance on cloud platforms like AWS. Skilled in CI/CD,
+infrastructure as code, and cloud-native development, I am committed to delivering high-quality software solutions
+that drive business impact
 
 
 ## 🌐 Socials:
